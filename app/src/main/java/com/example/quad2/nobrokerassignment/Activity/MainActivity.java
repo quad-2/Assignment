@@ -32,7 +32,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class MainActivity extends AppCompatActivity {
 
-    public static final String BASE_URL = "http://www.nobroker.in/api/v1/property/filter/";
+    public static final String BASE_URL = "API_URL";
     private final int REQUEST_CODE = 20;
 
     private RecyclerView postsRV;
